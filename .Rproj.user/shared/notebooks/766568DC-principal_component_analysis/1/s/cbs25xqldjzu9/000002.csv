@@ -1,0 +1,4 @@
+"0","fviz_eig(acp, addlabels = TRUE, hjust = -0.3) + "
+"0","        labs(title = ""Scree plot/ Gráfico de sedimentación"", x = ""Dimensiones"", y = ""% Varianza explicada"") +"
+"0","        theme_minimal()"
+"0",""

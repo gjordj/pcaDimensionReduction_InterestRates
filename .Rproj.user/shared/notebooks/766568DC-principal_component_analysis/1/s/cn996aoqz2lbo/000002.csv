@@ -1,0 +1,4 @@
+"0","fviz_pca_var(acp, col.var = ""cos2"","
+"0","             gradiet.cols = c(""red"", ""blue"", ""green""), repel = TRUE) +"
+"0","              labs(title = ""Mapa ejes principales"", subtitle = ""cos2"")+"
+"0","  theme_minimal()"

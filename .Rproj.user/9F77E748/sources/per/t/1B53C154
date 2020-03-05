@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572444571331.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2424515115",
+    "id" : "1B53C154",
+    "lastKnownWriteTime" : 1572447342,
+    "last_content_update" : 1574338595504,
+    "path" : "~/Google Drive/DATA SCIENCE-TRADING/1_CUNEF/Clustering and dimensionality reduction/Clustering_dimensionality_reduction_Code/Estructura_temporal_subyacente_tipos_interés/Temporary_underlying_structure_IR.Rmd",
+    "project_path" : "Temporary_underlying_structure_IR.Rmd",
+    "properties" : {
+        "cursorPosition" : "18,8",
+        "last_setup_crc32" : "",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

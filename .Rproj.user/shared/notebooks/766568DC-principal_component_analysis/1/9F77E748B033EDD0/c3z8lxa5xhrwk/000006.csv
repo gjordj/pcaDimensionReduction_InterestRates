@@ -1,0 +1,5 @@
+"0","acp = PCA(raw_data, graph = T)
+"
+"2","Missing values are imputed by the mean of the variable: you should use the imputePCA function of the missMDA package"
+"2","Error in colMeans(X, na.rm = TRUE) : 'x' must be numeric
+"
